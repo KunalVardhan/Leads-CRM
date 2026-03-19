@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import LeadsPage from "./pages/LeadPage";
 import LeadDashboard from "./pages/LeadDashboard";     
-import Homepage from "./pages/homepage";     
+import Homepage from "./pages/Homepage";     
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
